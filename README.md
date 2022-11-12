@@ -8,3 +8,4 @@
  
  3.  Setup the _json-server_ by running `npm run json`.
  
+Check the users-csv file for the fetched api data.
