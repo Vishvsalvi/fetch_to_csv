@@ -50,6 +50,8 @@ const filterData = () => {
   });
 };
 
+filterData();
+
  // Find the user by entering id
 const findUser = (id) => {
 
@@ -63,5 +65,4 @@ const findUser = (id) => {
   
 }
 
-
-
+console.log(findUser(2));
