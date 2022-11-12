@@ -1,0 +1,25 @@
+{
+    "People":[
+        {
+            "id":1,
+            "FirstName": "Elon",
+            "LastName": "Musk",
+            "Username": "elonmusk.spaceX",
+            "Email": "elon@spaceX.com"
+        },
+        {
+            "id":2,
+            "FirstName": "Mark",
+            "LastName": "Zuckerberg",
+            "Username": "zuck.meta",
+            "Email": "zuck@meta.com"
+        },
+        {
+            "id":3,
+            "FirstName": "Vishv",
+            "LastName": "Salvi",
+            "Username": "vishv.company",
+            "Email": "vishv@company.com"
+        }
+    ]
+}
